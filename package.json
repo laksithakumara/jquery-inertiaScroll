@@ -1,0 +1,25 @@
+{
+"name": "jquery-inertiaScroll",
+"description": "慣性スクロールのアニメーション用jQueryプラグイン",
+"version": "1.1.1",
+"license": "MIT",
+"main": "dist/jquery-inertiaScroll.js",
+"author": "Go Nishiduka <laksithakumara@gmail.com>",
+"directories": {
+"example": "examples"
+},
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "git@github.com:underground0930/jquery-inertiaScroll.git"
+},
+"keywords": [
+"parallax",
+"jquery",
+"javascript",
+"library"
+],
+"dependencies": {
+"jquery": "^3.3.1"
+}
+}
